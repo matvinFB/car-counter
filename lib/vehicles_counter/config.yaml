@@ -1,0 +1,121 @@
+- name: carro
+  image: assets/images/auto.png
+
+- name: moto
+  image: assets/images/moto.png
+
+- name: 2s2
+  image: assets/images/caminhao.png
+
+- name: 2s3
+  image: assets/images/caminhao.png
+
+- name: 3s2
+  image: assets/images/caminhao.png
+
+- name: 3s3
+  image: assets/images/caminhao.png
+
+- name: 3i3
+  image: assets/images/caminhao.png
+
+- name: 3s4
+  image: assets/images/caminhao.png
+
+- name: 3j3
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+- name: teste
+  image: assets/images/caminhao.png
+
+
