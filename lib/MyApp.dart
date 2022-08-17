@@ -10,6 +10,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(scaffoldBackgroundColor: COLOR6),
       title: "counter",
+      debugShowCheckedModeBanner: false,
       home: VehiclesCountScreen(),
     );
   }
